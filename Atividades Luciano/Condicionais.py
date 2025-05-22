@@ -1,4 +1,5 @@
 """Questão 06"""
+
 """num = input("Digite um número inteiro: ")
 num = int(num)
 modulo = num % 2
@@ -8,6 +9,7 @@ else:
     print("O número digitado é impar.")"""
 
 """Questão 07"""
+
 """def aprovado(nota1,nota2,nota3):
     media = (nota1+nota2+nota3)/3
     if media < 4:
@@ -44,6 +46,7 @@ idade = int(idade)
 classificacao(idade)"""
 
 """Questão 09"""
+
 """
 Não esquece de botar os ","" lá
 def adicao(num1,num2):
@@ -101,7 +104,9 @@ elif sinal == "*":
 else:
     print("O sinal escolhido não é suportado.")
 """
+
 """Questão 10"""
+
 """
 def organizacao(num1,num2,num3):
     ord1 = 0
@@ -148,6 +153,55 @@ num3 = float(num3)
 
 organizacao(num1,num2,num3)
 """
+
 """Questão 11"""
+"""
+def extenso(num1):
+    if num == 20:
+        print("Vinte")
+    elif num == 22:
+        print("Vinte e dois")
+    elif num == 23:
+        print("Vinte e três")
+    elif num == 24:
+        print("Vinte e quatro")
+    elif num == 25:
+        print("Vinte e cinco")
+    elif num == 26:
+        print("Vinte e seis")
+    elif num == 27:
+        print("Vinte e sete")
+    elif num == 28:
+        print("Vinte e oito")
+    elif num == 29:
+        print("Vinte e nove")
+    elif num == 30:
+        print("Trinta")
+    elif num == 31:
+        print("Trinta e um")
+    elif num == 32:
+        print("Trinta e dois")
+    elif num == 33:
+        print("Trinta e três")
+    elif num == 34:
+        print("Trinta e quatro")
+    elif num == 35:
+        print("Trinta e cinco")
+    elif num == 36:
+        print("Trinta e seis")
+    elif num == 37:
+        print("Trinta e sete")
+    elif num == 38:
+        print("Trinta e oito")
+    elif num == 39:
+        print("Trinta e nove")
+    else:
+        print("O número digitado não está entre 20 e 39")
+
+num = input("Digite um número inteiro entre 20 e 39: ")
+num = int(num)
+extenso(num)
+"""
 
 """Questão 12"""
+
