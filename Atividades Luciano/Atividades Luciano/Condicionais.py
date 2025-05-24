@@ -207,7 +207,6 @@ extenso(num)
 """
 
 """Questão 12"""
-
 """
 dig = input("Digite um número inteiro e positivo: ")    
 dig = int(dig)
